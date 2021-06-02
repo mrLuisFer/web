@@ -8,7 +8,7 @@
   "jsxSingleQuote": false,
   "arrowParens": "always",
   "quoteProps": "as-needed",
-  "semi": true,
+  "semi": false,
   "useTabs": false,
   "tabWidth": 2
 }

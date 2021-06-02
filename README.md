@@ -22,13 +22,13 @@ You don't know how to start your project ... you want to help other people know 
 1. Install Git
 2. Give me a star ⭐
 3. Make a Fork
-4. Clone the repository using git 
+4. Clone the repository using git
    ```
    git clone https://github.com/YOUR_USER/Landing-Web.git
    ```
-5. Make a new branch: 
+5. Make a new branch:
    ```
-   git branch -M new-feat 
+   git branch -M new-feat
    ```
 6. Commit your changes with the guide [CONVENTIONAL COMMITS](https://www.conventionalcommits.org/en/v1.0.0/).
 
